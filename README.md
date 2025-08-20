@@ -30,7 +30,7 @@ Design: Simple and user-friendly interface
 
 Clone the repository:
 
-git clone https://github.com/your-username/wellnest.git
+git clone https://github.com/krishnaveni224/WellNest-Lite.git
 
 
 Navigate to the project folder:
