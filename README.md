@@ -21,6 +21,7 @@ WellNest is a wellness-themed web application built with HTML, CSS, and JavaScri
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+Deployment : https://well-nest-lite-d5zti5nb4-krishnavenis-projects-8828f72c.vercel.app
 
 Design: Simple and user-friendly interface
 
